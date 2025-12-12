@@ -34,28 +34,12 @@ As my **first Python project**, this tool was built to practice core concepts su
 * **Language:** Python 3
 * **Libraries:** `datetime`
 * **Concepts:** Loops (`while`, `for`), Conditionals (`if-else`), Lists & Dictionaries, String Manipulation.
-
-## 💻 Kurulum ve Kullanım / Installation
-
-1.  Projeyi klonlayın / Clone the repo:
-    ```bash
-    git clone [https://github.com/KULLANICI_ADIN/dgs-takip-asistani.git](https://github.com/KULLANICI_ADIN/dgs-takip-asistani.git)
-    ```
-2.  Proje dizinine gidin / Navigate to the folder:
-    ```bash<img width="531" height="807" alt="6" src="https://github.com/user-attachments/assets/99971d71-bf2e-42ac-9e9a-e8a2c22379e6" />
-
-    cd dgs-takip-asistani
-    ```
-3.  Uygulamayı çalıştırın / Run the app:
-    ```bash
-    python main.py
-    ```
+  
+---
 
 ## 🔮 Gelecek Hedefleri / Roadmap
 * [ ] Verilerin SQLite veritabanında tutulması.
 * [ ] Grafik arayüz (GUI) eklenmesi (Tkinter veya PyQt).
 * [ ] Haftalık ve aylık grafiksel raporlar.
 
-
 ---
-*Bu proje, mühendislik yolculuğumun bir parçası olarak geliştirilmiştir.* 🚀
